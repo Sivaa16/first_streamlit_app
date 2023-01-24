@@ -68,10 +68,4 @@ if streamlit.button('Add a new fruit to the list'):
    streamlit.text(back_from_function)
 
 
-streamlit.header("The fruit list contains:")
-
-
-fruit_choice1 = 
-streamlit.write('Thanks for adding ', fruit_choice1)
-
 
